@@ -1476,7 +1476,7 @@ void displayAbout() {
 	printText(-3.5, 4.9, "             https://www.youtube.com/watch?v=7Ron6MN45LY ", 1, GLUT_STROKE_ROMAN, colorList[3], 1);
 
 	printText(-3.8, 4.0, "DEVELOPED BY", 1.2, GLUT_STROKE_MONO_ROMAN, colorList[2], 2);
-	printText(-3.8, 3.7, "   AKSHAT,SMRITI,IKJOT", 1.2, GLUT_STROKE_MONO_ROMAN, colorList[4], 2);
+	printText(-3.8, 3.7, "   JAHANVI ", 1.2, GLUT_STROKE_MONO_ROMAN, colorList[4], 2);
 }
 
 void displaySolution() {
